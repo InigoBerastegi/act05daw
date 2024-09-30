@@ -1,3 +1,1 @@
-"Este es un cambio en la rama de inigo" 
-"Este es un cambio en la rama de inigo" 
-"Cambio de I¤igo en la rama main" 
+"Contenido inicial en archivo.txt" 
